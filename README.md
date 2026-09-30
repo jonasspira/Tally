@@ -1,6 +1,6 @@
 # Tally
 
-A notepad that calculates — a Soulver-style calculator for Mac, part of SpiraOS.
+A notepad that calculates — a Soulver-style calculator for Mac, part of SPIIIRA Apps.
 
 ## Download & Install
 
