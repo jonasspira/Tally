@@ -1,5 +1,7 @@
 # Tally
 
+> **Tally has moved.** It now lives in the [`Tally/` folder of jonasspira/mac-apps](https://github.com/jonasspira/mac-apps/tree/main/Tally), with the rest of Jonas's Mac apps. This repository is archived and read-only. The 1.0.0 download on this repository's releases page still works.
+
 A notepad that calculates — a Soulver-style calculator for Mac, part of SPIIIRA Apps.
 
 ## Download & Install
